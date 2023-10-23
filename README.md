@@ -1,2 +1,2 @@
 # Error-Correction-WIP
-Program does not support double parity bits
+Not that this program does not support double parity bits
